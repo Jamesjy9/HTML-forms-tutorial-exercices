@@ -11,7 +11,8 @@ body {
 	font-family: montserrat, arial, verdana;
 }
 /*form styles*/
-<style > form {
+<style>
+form{
 	width: 400px;
 	margin: 50px auto;
 	text-align: center;
